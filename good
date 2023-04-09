@@ -1,0 +1,54 @@
+.one{
+position: 
+absolute;
+width: 1196px;
+height: 87px;
+
+background: url(1669696354_4-pibig-info-p-karbon-fon-oboi-4.png);
+}
+h1{
+position: absolute;
+width: 194px;
+height: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 42px;
+
+color: #ff0000;
+
+
+}
+h2{
+position: absolute;
+width: 194px;
+height: 42px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 65px;
+line-height: 52px;
+
+color: #ff0000;
+        
+        
+}
+
+h3{
+
+
+
+  
+ 
+    Align: Left
+    Vertical align: Top
+    Fill: Solid #000000
+    Stroke: Solid #FF0000
+    Align: Outside
+    Width: 2px
+        
+        
+}
