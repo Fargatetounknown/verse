@@ -2,14 +2,20 @@
 <html>
   <head>
     <title>ShellPlay.org</title>
+    <link rel="stylesheet" type="text/css" href="fff.css">
   </head>
   <body>
+    
     <img class="one" ,src="/1669696354_4-pibig-info-p-karbon-fon-oboi-4.png">
+    <img class="image1",src="/name_sk.png">
     <h1>ShellPlay</h1>
     <h2>О shellplay</h2>
-    <h3>поддержка</h2>
-    <link rel="stylesheet" type="text/css" href="fff.css">
-  
+    <h3>поддержка</h3>
+    <div class="two">
+      <p class="new1">категории</p>
+      <p class="new2">новости</p>
+    </div>
+    <img class="three" ,src="/corben.png">
   
   
   
